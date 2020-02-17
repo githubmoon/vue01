@@ -8,7 +8,7 @@
           href="https://vuejs.org"
           target="_blank"
         >
-          Core Docs
+          核心文档
         </a>
       </li>
       <li>
